@@ -14,7 +14,7 @@
 
 **The problem.** Real estate teams are flooded with generic cold outbound, so they ignore it. The most credible way to prove an AI teammate can do inside-sales work is to have it do that work.
 
-**The bet.** Felix writes as himself. He references something true and current about the team (a new listing, a post, a hiring page), never repeats an angle that team has already seen, and asks for a short conversation. Every reply is both a marketing moment and a pipeline event, with no rep hour spent. **Email and SMS only.** No cold calls.
+**The bet.** Felix writes as himself. He references something true and current about the team (a new listing, a post, a hiring page), never repeats an angle that team has already seen, and asks for a short conversation. Every reply is both a marketing moment and a pipeline event, with no rep hour spent. **Channels:** email and SMS in the live motion. The system began with a Twilio + ElevenLabs voice agent, and the same code-level gates guard every channel.
 
 **Why it's different**
 - **Signal-timed, not spray-and-pray.** A touch only goes out when there's a real, source-backed reason.
