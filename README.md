@@ -2,9 +2,9 @@
 
 ### An outbound system where the outreach *is* the demo.
 
-[![Watch the demo](https://img.shields.io/badge/▶_Watch_the_demo-product_walkthrough-D93025?style=for-the-badge)](https://drive.google.com/file/d/1KaB0AYvcEQvyQmJNzD0uJS7vyGJYmRan/view)
+<video src="https://github.com/ARAYN7011/felix-sells/raw/main/assets/demo.mp4" poster="https://github.com/ARAYN7011/felix-sells/raw/main/assets/poster.jpg" controls muted width="100%"></video>
 
-**Start with the video.** It shows Felix, an AI teammate, running outreach and the operator console behind it. **This README is the other half:** why it works as a product, and the engineering that keeps it safe to run unattended.
+**Press play above.** It shows Felix, an AI teammate, running outreach and the operator console behind it. **This README is the other half:** why it works as a product, and the engineering that keeps it safe to run unattended.
 
 > Built at [Fello](https://hifello.com) as primary engineer, with a small team. The code is private; this is the write-up. By [Aryan Pasreja](https://www.linkedin.com/in/aryan-pasreja/).
 
