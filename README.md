@@ -2,9 +2,9 @@
 
 ### An outbound system where the outreach *is* the demo.
 
-<video src="https://github.com/ARAYN7011/felix-sells/raw/main/assets/demo.mp4" poster="https://github.com/ARAYN7011/felix-sells/raw/main/assets/poster.jpg" controls muted width="100%"></video>
+<a href="https://github.com/ARAYN7011/felix-sells/blob/main/assets/demo.mp4"><img src="assets/poster.jpg" alt="Play the Felix Sells demo (2 min)" width="100%"></a>
 
-**Press play above.** It shows Felix, an AI teammate, running outreach and the operator console behind it. **This README is the other half:** why it works as a product, and the engineering that keeps it safe to run unattended.
+**Click the player above (2 min).** It shows Felix, an AI teammate, running outreach and the operator console behind it. **This README is the other half:** why it works as a product, and the engineering that keeps it safe to run unattended.
 
 > Built at [Fello](https://hifello.com) as primary engineer, with a small team. The code is private; this is the write-up. By [Aryan Pasreja](https://www.linkedin.com/in/aryan-pasreja/).
 
